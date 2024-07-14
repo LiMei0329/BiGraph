@@ -1,0 +1,5 @@
+comet-ml==3.31.21
+huggingface-hub==0.11.1
+sentence-transformers==2.2.2
+torch-geometric==2.2.0
+transformers==4.25.1
